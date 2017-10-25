@@ -1,6 +1,6 @@
 # jupyter-dataprocess
 
-Jupyter-dataprocess is a library to disaply Jupyter Widgets for data cleaning and preprocessing.
+Jupyter-dataprocess is a library to display Jupyter Widgets for data cleaning and preprocessing.
 
 ## Installation
 
